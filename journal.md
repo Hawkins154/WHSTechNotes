@@ -5,3 +5,5 @@ Journal Prompt: In a paragraph or more, reflect on your experience learning Pyth
 Response: I started learning Python on Code Combat a few days ago. Code Combat was a fun and interesting introduction to the language and now I know how to do "While True Loops". After finishing all the levels on Code Combat, I was introduced to EarSketch which will teach how to code using Python to create music. I haven't been able to explore EarSketch quite yet but I'm sure I'll be able to learn more. From my experience, the most challenging thing about Python is making sure I include all of my punctuation marks and format my code properly. The final level on Code Combat was challenging because I struggled with using conditional statements properly.
 # September 10, 2024
 No prompt for me.
+# September 17, 2024
+This is a free week.
