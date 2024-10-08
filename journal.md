@@ -13,3 +13,19 @@ Response: It is important to follow instructions exactly how they are given when
 # October 1, 2024
 Journal Prompt: Think about your daily routine and activities. Identify one task or process where computer science plays a role, either directly or indirectly. Write a paragraph describing how computer science is used and how it impacts your life. Consider things like apps you use, websites you visit, or even the technology behind devices you rely on. How would your day be different without this use of computer science?
 Response: Computer science is used in the chromebooks we use for school. Computer science helps chromebooks carry out different actions when you press a key on the keyboard or tap on a tab to switch to it. Computer science is used for security in district owned chromebooks by restricting searches based on what keywords were used or restricting sites that could steal personal information. If we didn't use chromebooks at school, many of our assignments would have to be done on paper which would put a burden on the environment and keep us from getting work done for different classes easily. If I didn't have a chromebook, I wouldn't have to worry about charging it or making sure I have enough space in my backpack to put it in.
+# October 8, 2024
+Journal Prompt: Research a job or career path in the field of computer science that interests you. In your journal entry, write a paragraph or more addressing the following:
+
+1. Job Title: What is the job or career path you researched?
+2. Job Description: What are the main responsibilities or tasks for this role?
+3. Skills Required: What programming languages, tools, or skills are important for this position?
+4. Education and Experience: What level of education or experience is typically needed for this role?
+5. Career Growth: What opportunities for growth or advancement are available in this career?
+6. Reflection: How does this job align with your interests and goals in computer science?
+Response:
+1. Graphic Designer
+2. Graphic designers create visuals for companies so they can use it for their advertisements. The things they develop are often placed on magazines, brochures, and reports.
+3. Graphic designers need to know their way around advanced design software such as Adobe Photoshop and Illustrator in order to create their images. Employers prefer to hire graphic designers who know language like HTML, CSS, and JavaScript.
+4. To be a graphic designer, you need a bachelor's degree in graphic design or a related fine arts field. It might also be necessary to complete technical trainings.
+5. Graphic designers can be promoted to higher positions like chief graphic designer, art director, and other supervision positions.
+6. This job aligns with my interests because my brother is a graphic designer and I might be able to learn a lot from him if I want to do it to. It aligns with my goals because I just want to have a stable job that makes a satisfactory amount of money in the future.
