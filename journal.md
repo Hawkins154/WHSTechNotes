@@ -62,3 +62,7 @@ Response: From my perspective, the term "brain rot" refers to a collection of wo
 # December 16, 2024
 Journal Prompt: Are you looking forward to the winter break?
 Response: I am looking forward to winter break so that I can relax. I also shouldn't have any work to do.
+# January 8, 2025
+Response: I enjoyed learning how to use new commands in ProjectStem. I think this class would be better if the curriculum were enforced more. A lot of us don't get work done because there isn't much keeping us from doing nothing the entire period.
+For this semester, I'd like to learn how to use coding languages to create useful programs. Right now, learning some basic Java would be helpful so I could perform better in Computer Science UIL.
+I am interested in pursuing certifications in this course so that I have career options once I graduate. I don't know what certifications I need to get a job in computer science, but I'm aiming for a Python certification right now. I would need a focused curriculum to do so.
