@@ -71,3 +71,10 @@ Response: I think the shift to using AI is great for companies looking to save m
 # January 22, 2025
 Response: Government intervention affects tech companies and their users by controlling whether or not the apps function globally. For example, TikTok is an app used all over the world but the US banned it and made it unavailable to the users in America. This also affects the income of the tech company and the feelings of society. As a result of the US TikTok ban, many TikTok users in America were upset and started moving onto other platforms(YouTube and Instagram) to use their short-form content(YouTube Shorts and Instagram Reels) for entertainment. I think TikTok could make the world aware of what it does, will continue to do, and improve on to protect privacy. This relates to data privacy because having sensitive data leaked is a very dangerous situation that can lead to others impersonating you and utilizing your resources(money and influence) for their goals.
 If I was a developer at TikTok, I would make sure that the user has a way to be aware of exactly what the app is doing to calibrate its algorithm to their tastes. That way, it's no shock when users hear about social media app data collection. A lesson I can take from this situation when developing my own projects is to not let the way my projects functions operate cross any boundaries regardless of how much easier it would be to ignore it.
+# January 27, 2025
+| Name        | Car         | Mistake     |
+|:----------- |:----------- |:----------- |
+| Jimmy       | Honda Civic | Drilled Hole in Gas Tank|
+| Kayla       | GMC Sierra  | Fixed Wrong Problem |
+| Bart        | Toyota Corolla| Left Stains on Carpet |
+| Harrison    | Subaru Forester | Left the Oil Cap Off |
