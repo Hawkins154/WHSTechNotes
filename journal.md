@@ -81,6 +81,7 @@ If I was a developer at TikTok, I would make sure that the user has a way to be 
 # February 3, 2025
 Response: We can attempt to prevent accidents like this from happening by making improvements in human-computer interaction and air traffic control systems. A common issue these days is an overreliance on technology and an air traffic controller shortage. If we trust technology too much and ignore its flaws, it is bound to lead us astray which may be what happened in the place crash. An air traffic controller shortage can lead to exhausted control towers too.
   The more we rely on technology, the less capable people become. Because of this, when technology makes a mistake, we can be too trusting and end up making a fatal mistake like what happened in the plane. To prevent this, we should not only continue to improve on our technology but also make sure that we can function without relying on it too much. Exhausted air traffic control towers can lead to pilots being allowed to make bad calls on their route. A few moments before the crash, a crewmember requested to fly closer to the other aircraft since they could see it, this request was approved and the two aircrafts crashed shortly afterward. This could've either been a bad idea or an unexpected accident. Regardless, bolstering the work force and improving our technology and capabilities might prevent this from happening. 
+# February 11, 2025
 | Shape    | Color     | Count    |
 |:---------|:----------|:---------|
 |Circle    |Green      |7         |
