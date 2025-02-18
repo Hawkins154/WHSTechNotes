@@ -89,3 +89,6 @@ Response: We can attempt to prevent accidents like this from happening by making
 |Hexagon   |Brown      |6         |
 |Triangle  |Purple     |4         |
 |Octagon   |Red        |3         |
+# February 18, 2025
+Prompt: What's the most interesting thing you learned last week? It could be from this class, another subject, a conversation, a YouTube video, or even something you discovered on your own. Explain what it was, how you learned it, and why you found it interesting.
+Response: The most interesting thing I learned last week was what a Freudian Slip was. A Freudian Slip occurs when you accidently say something that reveals your subconcious thoughts. I learned what it was after a song that used it in its title piqued my interest. I find it interesting because apparently these slip-ups can give insight as to what someone is really thinking or feeling.
