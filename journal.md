@@ -96,3 +96,11 @@ Response: The most interesting thing I learned last week was what a Freudian Sli
 Prompt: Write two paragraphs exploring how technology could bridge generational language gaps while maintaining professionalism and cultural awareness.
 Response: Technology can bridge generational gaps while maintaining professionalism and cultural awareness through social media by making everyone aware of new, appropriate words to use with their peers, elders, and juniors. Educators and service providers can view the same media platforms as the demographic they want to communicate with to learn new words and trends at the same time. There are probably a decent amount of videos on TikTok and YouTube that give explanations on the new generation's slang and trends. 
 Moving on, integrating slang translation tools into educational apps, AI chatbots, or online resources can help different demographics understand the same information. I think the challenge associated with this would be the struggle to keep up with our evolving language. Although it can be helpful, I don't believe youth organizations should teach slang because it would compromise the overall professionalism of our workplaces. It is important for everyone to know the right time and place to say certain things. Misunderstandings of slang during youth and adult interactions can create hostility because neither side will be able to understand the other which leads to an inability to defuse the situation.
+# March 3, 2025
+|Name    | Power    | Challenge    |
+|:-------|:---------|:-------------|
+| Zara| Telekinesis| Secure Building|
+| Aether| Weather Manipulation| Prevent Assassination|
+| Thorne| Invisibility| Underwater Rescue|
+| Silver| Mind Control| Retrieve Stolen Goods|
+| Tangier| Shapeshifting| Extract Prisoner|
