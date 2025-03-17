@@ -104,3 +104,6 @@ Moving on, integrating slang translation tools into educational apps, AI chatbot
 | Thorne| Invisibility| Underwater Rescue|
 | Silver| Mind Control| Retrieve Stolen Goods|
 | Tangier| Shapeshifting| Extract Prisoner|
+# March 17, 2025
+Throughout Spring Break, I watched TV, played games, and completed assignments. Television entertained me by providing access to a variety of shows to watch. More specifically, Netflix helped by recommending shows that other viewers who watch the same genres as me also tuned into.
+The only thing about the games I played that reminded me of this class were the usage of variables. Many games require the user to create a username/nickname that characters in the game refer to the player as. Using variables, you can store strings(names) that can be printed.
