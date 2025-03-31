@@ -110,3 +110,10 @@ The only thing about the games I played that reminded me of this class were the 
 # March 24, 2025
 Response: I think AI-driven programs that predict perfect brackets can be both exciting and boring. It's nice to know what team is playing against another ahead of time, but it could also spoil the fun of predicting it yourself. For example, a lot of people like to bet on who will get it right, so if AI were to predict correctly everytime, it wouldn't be as fun to do anymore.
   Social media platforms are often used to build excitement for upcoming matches.  Today, many people don't want to subscribe to a streaming service to watch a game. Due to these paywalls, a lot of people resort to illegal streaming so that can enjoy the game. These changes add financial stress and restrictions to the enjoyment of sports.
+# March 31, 2025
+Response:
+1. I feel tired in all three categories.
+2. The most stressful part of school is the workload. To maintain my grades, I usually end up working afterschool until I go to sleep.
+3. I could try to find time to workout and meditate to relieve stress.
+4. A goal I have for the rest of the school year is studying music theory after school everyday. I will stay motivated by listening to my favorite musical maestros.
+5. When I'm feeling overwhelmed, I could talk to my older brother. I trust him because he's usually available and has already been through college so he knows what I'm dealing with.
