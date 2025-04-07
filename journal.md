@@ -117,3 +117,6 @@ Response:
 3. I could try to find time to workout and meditate to relieve stress.
 4. A goal I have for the rest of the school year is studying music theory after school everyday. I will stay motivated by listening to my favorite musical maestros.
 5. When I'm feeling overwhelmed, I could talk to my older brother. I trust him because he's usually available and has already been through college so he knows what I'm dealing with.
+# April 7, 2025
+  I think AI could help me prepare for tests by providing practice questions and explanations on how to do them. In a traditional classroom, a teacher can't satisfy the needs of every single student within the time they have. This leaves a lot of students with unanswered questions and less of an incentive to focus. With an AI tutor, you are able to learn at your own pace and get more in-depth explanations on concepts they don't understand. I think those features would be useful to me because I struggle to ask for help when I need it.
+  If I were to use one, I probably wouldn't use it too often. I don't struggle too much with learning in a traditional classroom setting, but I would use an AI tutor to understand concepts I struggled with and review concepts from earlier in the year so that I don't forget.
