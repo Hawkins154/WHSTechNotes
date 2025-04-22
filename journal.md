@@ -123,3 +123,5 @@ Response:
 # April 14, 2025
 I believe that banning cell phone use during the entire school day can be both beneficial and detrimental. Many students spend their class time playing games or scrolling on social media instead of doing classwork or listening to their teacher's instruction. If cell phones were banned, it would be harder to get distracted in class. Unfortunately, this means you also can't listen to music, contact your guardian to inform them of afterschool events, or let them know about any other concerns.
 These policies could cause students to grow angry with its enforcers leading to more student-staff conflict. If implemented here, school would be even more intolerable for me. It's hard to focus without music or get certain work-related things done that the Chromebook falls short for.
+# April 22, 2025
+I sent the appreciation email.
