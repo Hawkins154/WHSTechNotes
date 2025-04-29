@@ -125,3 +125,9 @@ I believe that banning cell phone use during the entire school day can be both b
 These policies could cause students to grow angry with its enforcers leading to more student-staff conflict. If implemented here, school would be even more intolerable for me. It's hard to focus without music or get certain work-related things done that the Chromebook falls short for.
 # April 22, 2025
 I sent the appreciation email.
+# April 29, 2025
+| Name    | Flavor     | Occasion | Price|
+|:---------|:----------|:---------|:-----|
+|Sally    |Chocolate   |Graduation |$35.00|
+|Michael  |Vanilla     |Farewell Party|$37.00|
+|Emma   |Carrot      |Birthday       |$39.00|
