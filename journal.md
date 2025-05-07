@@ -130,4 +130,7 @@ I sent the appreciation email.
 |:---------|:----------|:---------|:-----|
 |Sally    |Chocolate   |Graduation |$35.00|
 |Michael  |Vanilla     |Farewell Party|$37.00|
-|Emma   |Carrot      |Birthday       |$39.00|
+|Emma   |Carrot      |Birthday       |$39.00
+# May 7, 2025
+  I don't think 100 unarmed people could win against a silverback gorilla. It is highly unlikely that they would all be able to attack at the same time or want to continue fighting after watching someone else get hurt. Because of this, the gorilla wouldn't feel deterred enough to stop and would probably end up killing a majority of the participants.
+I don't think it's responsible or irresponsible to make this challenge go viral since people don't usually have the ability to try it. People could learn about different species or misunderstand their own strength and capabilities because of it. I think this says that trends don't need to be logical to trend. In my opinion, it is the absence of logic and reasoning that provides entertainment since people usually use entertainment to escape from reality.
